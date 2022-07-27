@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.215625" />
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/drawable/ic_launcher_background.xml" value="0.37395833333333334" />
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/layout/activity_marble_screen_turn_results_screen_player_win.xml" value="0.2907608695652174" />
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/layout/activity_marbles_multi_gamble.xml" value="0.3421875" />
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/layout/activity_marbles_multi_guess.xml" value="0.3421875" />
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/layout/activity_marbles_multi_turn_results_screen.xml" value="0.3421875" />
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/layout/activity_marbles_player_one_wins.xml" value="0.3421875" />
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/layout/activity_marbles_player_selection.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/layout/activity_marbles_player_two_win.xml" value="0.3421875" />
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/layout/activity_marbles_screen_turn_results_screen_cpu_win.xml" value="0.2907608695652174" />
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/layout/activity_marbles_screen_turn_results_screen_guess.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/layout/activity_marbles_single_gamble.xml" value="0.2907608695652174" />
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/layout/activity_marbles_single_gambler.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/layout/activity_marbles_single_guess.xml" value="0.2907608695652174" />
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/layout/activity_marbles_single_guesser.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/layout/activity_marbles_single_turn_results_screen.xml" value="0.2907608695652174" />
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/layout/activity_marbles_single_turn_results_screen_gamble.xml" value="0.28442028985507245" />
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/layout/activity_rlgl_difficulty_select.xml" value="0.33" />
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/layout/activity_rlgl_game.xml" value="0.16" />
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/layout/activity_rlgl_loss.xml" value="0.33" />
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/layout/activity_rlgl_win.xml" value="0.33" />
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/layout/fragment_squid_home.xml" value="0.2907608695652174" />
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.215625" />
+        <entry key="..\:/Users/Jason/Documents/SquidArcade20/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.215625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

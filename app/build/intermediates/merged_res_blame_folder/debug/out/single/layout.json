@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_mainrlgl.xml",
+        "source": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\src\\main\\res\\layout\\activity_mainrlgl.xml"
+    },
+    {
+        "merged": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_rlgl_main.xml",
+        "source": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\src\\main\\res\\layout\\fragment_rlgl_main.xml"
+    },
+    {
+        "merged": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_marbles_singleplayer_evenodd.xml",
+        "source": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\src\\main\\res\\layout\\fragment_marbles_singleplayer_evenodd.xml"
+    },
+    {
+        "merged": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_marbles_main.xml",
+        "source": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\src\\main\\res\\layout\\fragment_marbles_main.xml"
+    },
+    {
+        "merged": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_singleplayer.xml",
+        "source": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\src\\main\\res\\layout\\activity_singleplayer.xml"
+    },
+    {
+        "merged": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home_page.xml",
+        "source": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\src\\main\\res\\layout\\fragment_home_page.xml"
+    },
+    {
+        "merged": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_rlglmain.xml",
+        "source": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\src\\main\\res\\layout\\activity_rlglmain.xml"
+    },
+    {
+        "merged": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_rlgl_singleplayer.xml",
+        "source": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\src\\main\\res\\layout\\fragment_rlgl_singleplayer.xml"
+    },
+    {
+        "merged": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_marbles_singleplayer_results.xml",
+        "source": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\src\\main\\res\\layout\\fragment_marbles_singleplayer_results.xml"
+    },
+    {
+        "merged": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_marbles_singleplayer_gamble.xml",
+        "source": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\src\\main\\res\\layout\\fragment_marbles_singleplayer_gamble.xml"
+    },
+    {
+        "merged": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_rlgl_player.xml",
+        "source": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\src\\main\\res\\layout\\fragment_rlgl_player.xml"
+    },
+    {
+        "merged": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\rlgl_players.xml",
+        "source": "D:\\Users\\Sohban\\Documents\\GitHub\\Squid-Arcade\\app\\src\\main\\res\\layout\\rlgl_players.xml"
+    }
+]

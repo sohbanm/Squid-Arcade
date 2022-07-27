@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.squidarcade20">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SquidArcade20">
+        <activity
+            android:name=".rlglWin"
+            android:exported="false" />
+        <activity
+            android:name=".rlglLoss"
+            android:exported="false" />
+        <activity
+            android:name=".rlglGame"
+            android:exported="false" />
+        <activity
+            android:name=".MarblesPlayerTwoWin"
+            android:exported="false" />
+        <activity
+            android:name=".MarblesPlayerOneWins"
+            android:exported="false" />
+        <activity
+            android:name=".marblesMultiTurnResultsScreen"
+            android:exported="false" />
+        <activity
+            android:name=".marblesMultiGamble"
+            android:exported="false" />
+        <activity
+            android:name=".marblesMultiGuess"
+            android:exported="false" />
+        <activity
+            android:name=".marbleScreenTurnResultsScreenPlayerWin"
+            android:exported="false" />
+        <activity
+            android:name=".marblesScreenTurnResultsScreenCpuWin"
+            android:exported="false" />
+        <activity
+            android:name=".marblesSingleTurnResultsScreen"
+            android:exported="false" />
+        <activity
+            android:name=".marblesSingleGuesser"
+            android:exported="false" />
+        <activity
+            android:name=".marblesSingleGambler"
+            android:exported="false" />
+        <activity
+            android:name=".rlglDifficultySelect"
+            android:exported="false" />
+        <activity
+            android:name=".marblesPlayerSelection"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
